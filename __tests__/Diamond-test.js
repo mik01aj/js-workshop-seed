@@ -21,7 +21,7 @@ describe('Diamond', function () {
         });
     });
 
-    describe('2. get() function', function () {
+    xdescribe('2. get() function', function () {
         it('should return empty list for empty string', function () {
             expect(new Diamond('').getString()).toEqual([]);
         });
