@@ -1,0 +1,21 @@
+{
+  "name": "js-workshop-seed",
+  "description": "Starting point for people on my first JS workshop.",
+  "version": "0.0.1",
+  "author": "Mikolaj Dadela <mikolaj.dadela@hgv-online.de>",
+  "dependencies": {
+    "es6-promise": "^2.0.1",
+    "lodash": "^3.1.0"
+  },
+  "devDependencies": {
+    "better-console": "^0.2.3",
+    "gulp": "^3.8.10",
+    "gulp-jest": "^0.2.2",
+    "gulp-load-plugins": "^0.8.0",
+    "jest": "latest"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "engine": "node >= 0.4.1"
+}
